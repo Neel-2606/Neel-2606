@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Neel-2606/Neel-2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -26,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Neel-2606&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
