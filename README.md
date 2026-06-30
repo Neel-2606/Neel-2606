@@ -43,7 +43,6 @@
 <br/>
 
 <!-- ===================== ABOUT ME ===================== -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379b0c8289b8b81df88d5e5b22c8be1c39559b48/bottom_header.svg" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Whoami
 

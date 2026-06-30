@@ -26,7 +26,7 @@ jobs:
           fetch() {
             url="$1"; out="$2"
             tmp="$(mktemp)"
-            if curl -sfL --max-time 30 "$url" -o "$tmp" \
+            if curl -sfL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" --max-time 30 "$url" -o "$tmp" \
                && head -c 200 "$tmp" | grep -qi "svg"; then
               mv "$tmp" "assets/$out"
               echo "OK   -> $out"
