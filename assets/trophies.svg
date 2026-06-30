@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120" viewBox="0 0 495 120">
-  <rect width="495" height="120" rx="8" fill="#1a1b27"/>
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#f7768e" font-family="Segoe UI, sans-serif" font-size="15">
-    Trophies API is out of quota (402 Payment Required)
-  </text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#9ece6a" font-family="Segoe UI, sans-serif" font-size="12">
-    Will automatically retry in the daily Action
-  </text>
-</svg>

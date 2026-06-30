@@ -274,7 +274,7 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img src="./assets/trophies.svg?v=1" width="100%" alt="trophies" />
+<img src="./assets/trophies.jpg?v=1" width="100%" alt="trophies" />
 
 </div>
 
