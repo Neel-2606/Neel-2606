@@ -255,16 +255,16 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400" alt="top langs" />
+<img height="180em" src="./assets/stats.svg" alt="stats" />
+<img height="180em" src="./assets/top-langs.svg" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Neel-2606&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="./assets/streak.svg" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-2606&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph" />
+<img src="./assets/activity-graph.svg" width="95%" alt="activity graph" />
 
 </div>
 
@@ -275,7 +275,7 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neel-2606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_bust=1" width="100%" alt="trophies" />
+<img src="./assets/trophies.svg" width="100%" alt="trophies" />
 
 </div>
 
