@@ -255,12 +255,12 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-2606&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=86400" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-2606&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Neel-2606&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br/>
 
@@ -275,7 +275,7 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neel-2606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Neel-2606&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&cache_bust=1" width="100%" alt="trophies" />
 
 </div>
 
