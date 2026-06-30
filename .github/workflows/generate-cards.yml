@@ -1,0 +1,54 @@
+name: Generate README Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch all cards as static SVGs
+        env:
+          USER: Neel-2606
+          THEME: tokyonight
+        run: |
+          mkdir -p assets
+          fetch() {
+            url="$1"; out="$2"
+            tmp="$(mktemp)"
+            if curl -sfL --max-time 30 "$url" -o "$tmp" \
+               && head -c 200 "$tmp" | grep -qi "svg"; then
+              mv "$tmp" "assets/$out"
+              echo "OK   -> $out"
+            else
+              echo "SKIP -> $out (fetch failed, keeping previous version)"
+              rm -f "$tmp"
+            fi
+          }
+          fetch "https://github-readme-stats.vercel.app/api?username=${USER}&theme=${THEME}&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" "stats.svg"
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&theme=${THEME}&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" "top-langs.svg"
+          fetch "https://streak-stats.demolab.com/?user=${USER}&theme=${THEME}&hide_border=true" "streak.svg"
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=tokyo-night&hide_border=true&area=true" "activity-graph.svg"
+          fetch "https://github-profile-trophy.vercel.app/?username=${USER}&theme=${THEME}&no-frame=true&no-bg=true&margin-w=4&column=7" "trophies.svg"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh README cards [skip ci]"
+            git push
+          fi

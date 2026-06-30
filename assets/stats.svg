@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120" viewBox="0 0 495 120">
+  <rect width="495" height="120" rx="8" fill="#1a1b27"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#00c9a7" font-family="Segoe UI, sans-serif" font-size="15">
+    Generating card… run the Actions workflow once
+  </text>
+</svg>
