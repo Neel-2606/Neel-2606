@@ -257,11 +257,11 @@ A universal AI-powered platform that **generates websites and apps from natural 
 <img height="180em" src="./assets/stats.svg" alt="stats" />
 <img height="180em" src="./assets/top-langs.svg" alt="top langs" />
 
-<br/>
+<br/><br/>
 
 <img src="./assets/streak.svg" alt="streak" />
 
-<br/>
+<br/><br/>
 
 <img src="./assets/activity-graph.svg" width="95%" alt="activity graph" />
 
