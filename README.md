@@ -254,16 +254,16 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img height="180em" src="./assets/stats.svg" alt="stats" />
-<img height="180em" src="./assets/top-langs.svg" alt="top langs" />
+<img height="180em" src="./assets/stats.svg?v=1" alt="stats" />
+<img height="180em" src="./assets/top-langs.svg?v=1" alt="top langs" />
 
 <br/><br/>
 
-<img src="./assets/streak.svg" alt="streak" />
+<img src="./assets/streak.svg?v=1" alt="streak" />
 
 <br/><br/>
 
-<img src="./assets/activity-graph.svg" width="95%" alt="activity graph" />
+<img src="./assets/activity-graph.svg?v=1" width="95%" alt="activity graph" />
 
 </div>
 
@@ -274,7 +274,7 @@ A universal AI-powered platform that **generates websites and apps from natural 
 
 <div align="center">
 
-<img src="./assets/trophies.svg" width="100%" alt="trophies" />
+<img src="./assets/trophies.svg?v=1" width="100%" alt="trophies" />
 
 </div>
 
