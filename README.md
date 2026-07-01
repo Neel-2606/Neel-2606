@@ -166,9 +166,10 @@ class NeelPrajapati:
 
 <br/>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="2%"></td>
+    <td width="46%" valign="top">
       <h3>🌾 AgriForge — KrishiMitra</h3>
       <b>AI/ML • Computer Vision • Smart Agriculture</b>
       <p>AI-powered agricultural assistant giving farmers <b>24×7 support across 10+ Indian languages</b> via voice & text. Integrated an <b>EfficientNet</b> computer-vision model for crop disease detection from leaf imagery.</p>
@@ -180,7 +181,8 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Multilingual_NLP-02569B?style=flat-square&logo=googletranslate&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="4%"></td>
+    <td width="46%" valign="top">
       <h3>🏙️ Urban Intel AI</h3>
       <b>AI/ML • Predictive Analytics • Local LLM</b>
       <p>Hybrid AI system using <b>6 Random Forest models</b> to forecast urban risks — traffic congestion, water scarcity & public health hazards. Runs a <b>private TinyLlama LLM</b> for real-time policy recommendations with full data sovereignty (no external APIs).</p>
@@ -192,9 +194,11 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Smart_City-4285F4?style=flat-square&logo=googlemaps&logoColor=white">
       </p>
     </td>
+    <td width="2%"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="2%"></td>
+    <td width="46%" valign="top">
       <h3>🛰️ Mumbai Pulse (CityFage)</h3>
       <b>AI/ML • Geospatial Analysis • NASA Data</b>
       <p>AI system leveraging <b>NASA Earth observation datasets</b> to monitor air quality, urban heat & environmental risks across Mumbai.</p>
@@ -206,7 +210,8 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Remote_Sensing-FF6F61?style=flat-square&logo=satellite&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="4%"></td>
+    <td width="46%" valign="top">
       <h3>🩺 Eunoia Homoeopathy</h3>
       <b>Web Development • UI/UX • Deployment</b>
       <p>Shipped & deployed a <b>live production website</b> for a homoeopathy clinic — owning UI/UX design, domain setup, hosting and end-to-end deployment against real client requirements.</p>
@@ -218,9 +223,11 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Deployment-000000?style=flat-square&logo=vercel&logoColor=white">
       </p>
     </td>
+    <td width="2%"></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="2%"></td>
+    <td width="46%" valign="top">
       <h3>🐄 Hackovate LJ — Cattle Health ML</h3>
       <b>AI/ML • Sensor Data • Predictive Pipeline</b>
       <p>Built an <b>ML pipeline predicting cow milk yield and health anomalies</b> using sensor data and historical records.</p>
@@ -231,7 +238,8 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Anomaly_Detection-8A2BE2?style=flat-square&logo=python&logoColor=white">
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="4%"></td>
+    <td width="46%" valign="top">
       <h3>🚀 MindForge</h3>
       <b>Generative AI • Full-Stack • No-Code</b>
       <p>A universal AI-powered platform that <b>generates websites and apps from natural language</b> prompts.</p>
@@ -242,6 +250,7 @@ class NeelPrajapati:
         <img src="https://img.shields.io/badge/Full--Stack-6DA55F?style=flat-square&logo=node.js&logoColor=white">
       </p>
     </td>
+    <td width="2%"></td>
   </tr>
 </table>
 
