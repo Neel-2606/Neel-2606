@@ -11,23 +11,23 @@
 <div align="center">
 
 <a href="https://github.com/Neel-2606">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:FF1493&height=220&section=header&text=Neel%20Prajapati&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Hackathon%20Winner&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:1E90FF&height=220&section=header&text=Neel%20Prajapati&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Hackathon%20Winner&descAlignY=58&descSize=18" width="100%"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=850&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;NASA+Space+Apps+Challenge+2025+Winner+%F0%9F%8F%86;Turning+datasets+into+decisions+%F0%9F%A7%A0;Generative+AI+%7C+Computer+Vision+%7C+Full-Stack;From+Learner+to+Pro%2C+one+Forge+at+a+time+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=850&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;NASA+Space+Apps+Challenge+2025+Winner+%F0%9F%8F%86;Turning+datasets+into+decisions+%F0%9F%A7%A0;Generative+AI+%7C+Computer+Vision+%7C+Full-Stack;From+Learner+to+Pro%2C+one+Forge+at+a+time+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ===================== PROFILE BADGES ===================== -->
-<img src="https://komarev.com/ghpvc/?username=Neel-2606&label=Profile%20Views&color=FF1493&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Neel-2606&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/Neel-2606?tab=followers">
-  <img src="https://img.shields.io/github/followers/Neel-2606?label=Followers&style=for-the-badge&color=FF1493&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Neel-2606?label=Followers&style=for-the-badge&color=1E90FF&logo=github" alt="followers" />
 </a>
-<img src="https://img.shields.io/badge/Based%20in-Vadodara,%20India-FF1493?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/Based%20in-Vadodara,%20India-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 
 </div>
 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://neelprajapatiportfolio.work">
-  <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/Neel-2606">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -327,11 +327,11 @@ class NeelPrajapati:
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Neel-2606&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Neel-2606&theme=radical&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-2606&theme=react-dark&bg_color=0D1117&color=FF1493&line=FF1493&point=ffffff&hide_border=true&area=true" width="95%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neel-2606&theme=react-dark&bg_color=0D1117&color=1E90FF&line=1E90FF&point=ffffff&hide_border=true&area=true" width="95%" alt="activity graph" />
 
 </div>
 
@@ -380,6 +380,6 @@ class NeelPrajapati:
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:2C5364,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:2C5364,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
