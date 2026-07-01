@@ -1,6 +1,6 @@
 <!-- ===================== HEADER / BANNER ===================== -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="800" alt="Animated Laptop Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Super Mario">
 
   <br/><br/>
   
@@ -26,11 +26,8 @@
 </div>
 
 <!-- ===================== ABOUT ME ===================== -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Whoami</h2>
-      
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Whoami</h2>
+
 ```python
 class NeelPrajapati:
     def __init__(self):
@@ -53,163 +50,85 @@ class NeelPrajapati:
     def life_motto(self):
         return "Don't just build models — build things that ship."
 ```
-      <blockquote>
-        🔭 Currently engineering <b>AI platforms that solve real problems</b>.<br>
-        🌱 Leveling up in <b>React.js & Next.js</b> ecosystem & <b>C++ / Java</b> for CP.<br>
-        🤝 Open to collaborating on <b>Gen AI</b> and <b>Full-Stack MERN</b> projects.<br>
-        💬 Ask me about <b>winning NASA Space Apps</b> or building <b>AI for agriculture</b>.
-      </blockquote>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280" alt="Ultra Confident Coder">
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Fading Line">
 </div>
 
 <!-- ===================== TECH STACK ===================== -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Tech Stack floating">
-    </td>
-    <td width="65%" valign="top">
-      <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal</h2>
-      
-      <h3>💻 Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </p>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal</h2>
 
-      <h3>🌐 Web & Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white">
-      </p>
-
-      <h3>🤖 AI / ML</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-        <img src="https://img.shields.io/badge/Local_LLMs-8A2BE2?style=for-the-badge&logo=ollama&logoColor=white">
-      </p>
-
-      <h3>🗄️ Databases & Cloud</h3>
-      <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-      </p>
-    </td>
-  </tr>
-</table>
+```python
+tech_arsenal = {
+    "Languages": ["Python", "Java", "C++", "C", "JavaScript"],
+    "Web_and_Frameworks": ["React", "Next.js", "Node.js", "HTML5", "CSS3", "REST API", "JWT"],
+    "AI_and_ML": ["Generative AI", "Hugging Face", "scikit-learn", "NumPy", "Pandas", "Local LLMs"],
+    "Databases_and_Cloud": ["PostgreSQL", "Supabase", "MySQL", "Google Cloud"],
+    "Tools": ["Git", "GitHub", "Vercel"]
+}
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Fading Line">
 </div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/W5eUNhgkdkVeqdF6Pb/giphy.gif" width="28"> &nbsp;Featured Projects</h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450" alt="Multi Screen Analysis">
-</div>
+<h2><img src="https://media.giphy.com/media/W5eUNhgkdkVeqdF6Pb/giphy.gif" width="28"> &nbsp;Featured Projects</h2>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 AgriForge — KrishiMitra
-**AI/ML • Computer Vision • Smart Agriculture**
-
-AI-powered agricultural assistant giving farmers **24×7 support across 10+ Indian languages** via voice & text. Integrated an **EfficientNet** computer-vision model for crop disease detection from leaf imagery.
-
-🏅 Secured **₹2.43 Lakh research funding** under SSIP, Govt. of Gujarat.
-
-`Python` `EfficientNet` `Generative AI` `Multilingual NLP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ Urban Intel AI
-**AI/ML • Predictive Analytics • Local LLM**
-
-Hybrid AI system using **6 Random Forest models** to forecast urban risks. Runs a **private TinyLlama LLM** for real-time policy recommendations with full data sovereignty.
-
-🥈 **1st Runner-Up** — 2nd of 180+ teams @ Ingenius Hackathon 7.0.
-
-`Random Forest` `TinyLlama` `Python` `Smart City`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Mumbai Pulse (CityFage)
-**AI/ML • Geospatial Analysis • NASA Data**
-
-AI system leveraging **NASA Earth observation datasets** to monitor air quality, urban heat & environmental risks across Mumbai.
-
-🏆 **1st Place — NASA Space Apps Challenge 2025.**
-
-`NASA Datasets` `Geospatial` `Python` `Remote Sensing`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 MindForge
-**Generative AI • Full-Stack • No-Code**
-
-A universal AI-powered platform that **generates websites and apps from natural language** prompts.
-
-🔧 Actively in development — pushing GenAI pipelines to ship real products.
-
-`Generative AI` `Next.js` `Full-Stack`
-
-</td>
-</tr>
-</table>
+```python
+featured_projects = [
+    {
+        "name": "AgriForge — KrishiMitra",
+        "domain": "AI/ML • Computer Vision • Smart Agriculture",
+        "description": "AI-powered agricultural assistant giving farmers 24x7 support across 10+ Indian languages. Integrated EfficientNet for crop disease detection.",
+        "highlights": "Secured ₹2.43 Lakh research funding under SSIP, Govt. of Gujarat.",
+        "stack": ["Python", "EfficientNet", "Generative AI", "Multilingual NLP"]
+    },
+    {
+        "name": "Urban Intel AI",
+        "domain": "AI/ML • Predictive Analytics • Local LLM",
+        "description": "Hybrid AI system using 6 Random Forest models to forecast urban risks. Runs a private TinyLlama LLM for real-time policy recommendations.",
+        "highlights": "1st Runner-Up — 2nd of 180+ teams @ Ingenius Hackathon 7.0.",
+        "stack": ["Random Forest", "TinyLlama", "Python", "Smart City"]
+    },
+    {
+        "name": "Mumbai Pulse (CityFage)",
+        "domain": "AI/ML • Geospatial Analysis • NASA Data",
+        "description": "AI system leveraging NASA Earth observation datasets to monitor air quality, urban heat & environmental risks across Mumbai.",
+        "highlights": "1st Place — NASA Space Apps Challenge 2025.",
+        "stack": ["NASA Datasets", "Geospatial", "Python", "Remote Sensing"]
+    },
+    {
+        "name": "MindForge",
+        "domain": "Generative AI • Full-Stack • No-Code",
+        "description": "A universal AI-powered platform that generates websites and apps from natural language prompts.",
+        "highlights": "Actively in development — pushing GenAI pipelines to ship real products.",
+        "stack": ["Generative AI", "Next.js", "Full-Stack"]
+    }
+]
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Fading Line">
 </div>
 
-
 <!-- ===================== ACHIEVEMENTS & PROGRAMS ===================== -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements & Honors</h2>
-      <ul>
-        <li>🥇 <b>Winner — NASA Space Apps Challenge 2025</b></li>
-        <li>🥈 <b>1st Runner-Up — Ingenius Hackathon 7.0</b> (2nd/180+ teams)</li>
-        <li>🥈 <b>2nd Rank — IBM AI Innovation Challenge 2026</b></li>
-        <li>🎖️ <b>Finalist — DotSlash 9.0</b> (30-hour national hackathon)</li>
-        <li>🎖️ <b>Finalist — HackBaroda 2026 & Hackovate LJ</b></li>
-      </ul>
-      
-      <h2><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Programs & Certs</h2>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Cloud_Career_Launchpad-Diamond_League-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Prompt_to_Prototype-Scaler-FF6F00?style=for-the-badge&logo=rocket&logoColor=white">
-      </p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Awesome Workspace">
-    </td>
-  </tr>
-</table>
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements, Honors & Certs</h2>
+
+```python
+achievements_and_honors = {
+    "NASA Space Apps Challenge 2025": "Winner 🥇",
+    "Ingenius Hackathon 7.0": "1st Runner-Up (2nd/180+ teams) 🥈",
+    "IBM AI Innovation Challenge 2026": "2nd Rank 🥈",
+    "DotSlash 9.0": "Finalist (30-hour national hackathon) 🎖️",
+    "HackBaroda 2026 & Hackovate LJ": "Finalist 🎖️",
+    "Certifications": [
+        "Google Cloud Career Launchpad - Diamond League",
+        "Prompt to Prototype - Scaler",
+        "Deloitte Tech Job Simulation - Forage"
+    ]
+}
+```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Fading Line">
