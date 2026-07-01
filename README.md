@@ -1,4 +1,11 @@
-<!-- ===================== HEADER / TYPING BANNER ===================== -->
+<!-- ===================== HERO / MARIO BANNER ===================== -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="Super Mario"/>
+
+</div>
+
+<!-- ===================== HEADER / WAVING BANNER ===================== -->
 <div align="center">
 
 <a href="https://github.com/Neel-2606">
@@ -38,9 +45,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+
+</div>
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -76,12 +85,16 @@ class NeelPrajapati:
 > 🤝 Open to collaborating on **national-level hackathons**, **Generative AI**, and **full-stack MERN** projects.
 > 💬 Ask me about **winning NASA Space Apps**, building **AI for agriculture**, or surviving a 30-hour national hackathon.
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="280" alt="tech stack floating"/>
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -120,10 +133,16 @@ class NeelPrajapati:
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## <img src="https://media.giphy.com/media/W5eUNhgkdkVeqdF6Pb/giphy.gif" width="28"> &nbsp;Featured Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="420" alt="multi screen analysis"/>
+</div>
 
 <table>
   <tr>
@@ -204,12 +223,16 @@ class NeelPrajapati:
   </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== ACHIEVEMENTS ===================== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Achievements & Honors
 
-<div align="center">
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
 | 🏆 Achievement | 📋 Detail |
 |:---|:---|
@@ -221,9 +244,16 @@ class NeelPrajapati:
 | 🎖️ **Finalist — Hackovate LJ** | Cattle health & milk-yield ML pipeline |
 | 🛰️ **Participant — ISRO SpaceTech Innovation Hackathon** | National-level geospatial / satellite-data solutions |
 
-</div>
+  </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="awesome workspace"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== LEADERSHIP ===================== -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Leadership & Community
@@ -232,7 +262,9 @@ class NeelPrajapati:
 - 🤖 **AI/ML Team Lead** — *Neuralize Club, MSU Baroda* — Driving AI/ML initiatives: organizing workshops, mentoring peers & supporting hackathon activities.
 - 🗣️ **AI/ML Community Engagement** — Organizing AI/ML discussions, workshops & hackathon collaborations across university communities.
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== PROGRAMS & CERTS ===================== -->
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Programs & Certifications
@@ -245,12 +277,18 @@ class NeelPrajapati:
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="240" alt="3d cool statistics"/>
+
+<br/><br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-2606&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-2606&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="top langs" />
@@ -278,7 +316,9 @@ class NeelPrajapati:
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== QUOTE ===================== -->
 <div align="center">
@@ -298,10 +338,14 @@ class NeelPrajapati:
 
 </div>
 
-<br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
+</div>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="330" alt="keep moving forward"/>
 
 ### 💌 Let's build something that ships.
 
