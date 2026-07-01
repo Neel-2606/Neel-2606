@@ -80,10 +80,28 @@ class NeelPrajapati:
 
 <br/>
 
-> 🔭 Currently engineering **AI platforms that solve real problems** — from crop disease detection for farmers to NASA-powered environmental monitoring.
-> 🌱 Leveling up in the **React.js & Next.js** ecosystem while sharpening **C++ / Java** for competitive programming.
-> 🤝 Open to collaborating on **national-level hackathons**, **Generative AI**, and **full-stack MERN** projects.
-> 💬 Ask me about **winning NASA Space Apps**, building **AI for agriculture**, or surviving a 30-hour national hackathon.
+<table>
+  <tr>
+    <td width="55px" align="center">🔭</td>
+    <td>Currently engineering <b>AI platforms that solve real problems</b> — from crop disease detection for farmers to NASA-powered environmental monitoring.</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td>Leveling up in the <b>React.js & Next.js</b> ecosystem while sharpening <b>C++ / Java</b> for competitive programming.</td>
+  </tr>
+  <tr>
+    <td align="center">🤝</td>
+    <td>Open to collaborating on <b>national-level hackathons</b>, <b>Generative AI</b>, and <b>full-stack MERN</b> projects.</td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td>Ask me about <b>winning NASA Space Apps</b>, building <b>AI for agriculture</b>, or surviving a 30-hour national hackathon.</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><i>Don't just build models — build things that ship.</i></td>
+  </tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
@@ -290,12 +308,13 @@ class NeelPrajapati:
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neel-2606&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel-2606&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="top langs" />
+<!-- Stats — using the reliable readme-stats mirror (region-safe) -->
+<img height="180em" src="https://readme-stats-eight-alpha-11.vercel.app/api?username=Neel-2606&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="stats" />
+<img height="180em" src="https://readme-stats-eight-alpha-11.vercel.app/api/top-langs/?username=Neel-2606&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="top langs" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neel-2606&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=Neel-2606&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" alt="streak" />
 
 <br/><br/>
 
