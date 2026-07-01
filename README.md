@@ -151,7 +151,19 @@ achievements_and_honors = {
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/UWtBnQQ4eW6la/giphy.gif" width="28"> &nbsp;Trophy Cabinet</h2>
-  <img src="./assets/trophies.jpg?v=1" width="100%" alt="trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Neel-2606&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Neel-2606 Trophies" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Fading Line">
+</div>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" onerror="this.style.display='none'"/>
 </div>
 
 <div align="center">
