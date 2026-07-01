@@ -308,9 +308,9 @@ class NeelPrajapati:
 
 <br/><br/>
 
-<!-- Stats — using the reliable readme-stats mirror (region-safe) -->
-<img height="180em" src="https://readme-stats-eight-alpha-11.vercel.app/api?username=Neel-2606&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7" alt="stats" />
-<img height="180em" src="https://readme-stats-eight-alpha-11.vercel.app/api/top-langs/?username=Neel-2606&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7" alt="top langs" />
+<!-- Stats — using local assets for reliable display -->
+<img height="180em" src="./assets/stats.svg?v=1" alt="stats" />
+<img height="180em" src="./assets/top-langs.svg?v=1" alt="top langs" />
 
 <br/><br/>
 
@@ -329,9 +329,7 @@ class NeelPrajapati:
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neel-2606&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="trophies" />
-</a>
+<img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="700" alt="Awesome Animation"/>
 
 </div>
 
@@ -353,7 +351,11 @@ class NeelPrajapati:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Neel-2606/Neel-2606/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 </div>
 
