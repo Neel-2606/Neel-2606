@@ -5,6 +5,8 @@
 
 </div>
 
+<br/><br/>
+
 <!-- ===================== HEADER / WAVING BANNER ===================== -->
 <div align="center">
 
@@ -324,18 +326,6 @@ class NeelPrajapati:
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-## <img src="https://media.giphy.com/media/UWtBnQQ4eW6la/giphy.gif" width="28"> &nbsp;Trophy Cabinet
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="700" alt="Awesome Animation"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
-</div>
 
 <!-- ===================== QUOTE ===================== -->
 <div align="center">
