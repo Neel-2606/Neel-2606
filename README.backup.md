@@ -10,12 +10,12 @@
 <br>
 
 <!-- hero: monochrome ASCII portrait (types in) beside a neofetch-style info panel.
-     regenerate portrait: python scripts/prep_photo.py && python scripts/make_ascii_svg.py
+     regenerate portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      info panel: python scripts/make_info_card.py -->
-<h3><code>neel@github ~ $ cat profile.json</code></h3>
+<h3><code>neel@github ~ $ whoami</code></h3>
 <table>
 <tr>
-<td valign="top"><img src="./neel-ascii.svg" width="370" alt="Neel Prajapati — ASCII portrait" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Neel Prajapati — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Neel Prajapati — role, stack, highlights" /></td>
 </tr>
 </table>
@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<h3><code>neel@github ~ $ ./connect.sh</code></h3>
+<h3><code>neel@github ~ $ ./links.sh</code></h3>
 <p><b>AI Engineer · Full-Stack Dev · Hackathon Winner</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-neelprajapatiportfolio.work-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://neelprajapatiportfolio.work)
@@ -64,6 +64,34 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="line"/>
 </div>
 
+<!-- ===================== ABOUT ME ===================== -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Whoami
+
+```python
+class NeelPrajapati:
+    def __init__(self):
+        self.role        = "AI & Full-Stack Engineer"
+        self.education   = "B.E. Computer Science @ MSU Baroda (CGPA 8.31)"
+        self.location    = "Vadodara, Gujarat, India"
+        self.graduating  = "May 2028"
+
+        self.current_focus = [
+            "Generative AI pipelines",
+            "Computer Vision for real-world impact",
+            "Geospatial intelligence with NASA data",
+            "Scaling AI backends & Next.js SSR",
+        ]
+
+        self.fun_fact = "Reached Diamond League in Google Cloud "
+                        "Career Launchpad while building 3+ 'Forge' "
+                        "projects in my 2nd year of CS 🚀"
+
+    def life_motto(self):
+        return "Don't just build models — build things that ship."
+```
+
+<br/>
 
 <table>
   <tr>
