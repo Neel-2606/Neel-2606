@@ -50,11 +50,11 @@ def main():
     radius = int((size // 2) * 0.98)
     cv2.circle(mask, center, radius, 255, -1)
 
-    # Composite onto white background
-    white_bg = np.ones((size, size), dtype=np.uint8) * 255
+    # Composite onto black background (for dark terminal)
+    black_bg = np.zeros((size, size), dtype=np.uint8)
     alpha_mask = mask / 255.0
     
-    composite = (cl1 * alpha_mask) + (white_bg * (1 - alpha_mask))
+    composite = (cl1 * alpha_mask) + (black_bg * (1 - alpha_mask))
     composite = composite.astype(np.uint8)
 
     out_path = "source-prepped.png"

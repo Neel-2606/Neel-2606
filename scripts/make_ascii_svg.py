@@ -32,7 +32,8 @@ def from_photo():
     lines = []
     n = len(RAMP)
     for row in a:
-        line = "".join(RAMP[min(n - 1, int((255 - v) / 255 * (n - 1)))] for v in row)
+        # v=0 (black) maps to index 0 (space), v=255 (white) maps to index n-1 (@)
+        line = "".join(RAMP[min(n - 1, int(v / 255 * (n - 1)))] for v in row)
         lines.append(line.rstrip())
     return [l for l in lines]
 
