@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import os
 import sys
+import numpy as np
+import cv2
 
 def fallback():
     print("WARNING: source-photo.jpg or source-photo.png not found.")
@@ -16,41 +18,36 @@ def main():
         fallback()
         return
 
-    try:
-        from rembg import remove
-        from PIL import Image
-        import numpy as np
-        import cv2
-    except ImportError as e:
-        print(f"Error importing required libraries: {e}")
+    print(f"Processing {input_path}...")
+    bgr_img = cv2.imread(input_path)
+    if bgr_img is None:
+        print("Error: Could not read image.")
         sys.exit(1)
 
-    print(f"Processing {input_path}...")
-
-    with open(input_path, "rb") as f:
-        input_bytes = f.read()
-
-    print("Removing background...")
-    output_bytes = remove(input_bytes)
-    
-    import io
-    img = Image.open(io.BytesIO(output_bytes)).convert("RGBA")
-
-    cv_img = np.array(img)
-    b, g, r, a = cv2.split(cv_img)
-    bgr_img = cv2.merge([b, g, r])
+    print("Cropping to square...")
+    h, w = bgr_img.shape[:2]
+    size = min(h, w)
+    y1 = (h - size) // 2
+    y2 = y1 + size
+    x1 = (w - size) // 2
+    x2 = x1 + size
+    cropped = bgr_img[y1:y2, x1:x2]
 
     print("Converting to grayscale and applying CLAHE...")
-    gray = cv2.cvtColor(bgr_img, cv2.COLOR_BGR2GRAY)
-
+    gray = cv2.cvtColor(cropped, cv2.COLOR_BGR2GRAY)
     clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
     cl1 = clahe.apply(gray)
 
-    print("Compositing onto white background...")
-    h, w = cl1.shape
-    white_bg = np.ones((h, w), dtype=np.uint8) * 255
-    
-    alpha_mask = a / 255.0
+    print("Applying circular mask (profile pic style)...")
+    mask = np.zeros((size, size), dtype=np.uint8)
+    center = (size // 2, size // 2)
+    # Slightly smaller radius to ensure smooth edge
+    radius = int((size // 2) * 0.98)
+    cv2.circle(mask, center, radius, 255, -1)
+
+    # Composite onto white background
+    white_bg = np.ones((size, size), dtype=np.uint8) * 255
+    alpha_mask = mask / 255.0
     
     composite = (cl1 * alpha_mask) + (white_bg * (1 - alpha_mask))
     composite = composite.astype(np.uint8)
