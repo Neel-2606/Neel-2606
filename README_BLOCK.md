@@ -9,7 +9,7 @@
 <h3><code>neel@github ~ $ cat profile.json</code></h3>
 <table>
 <tr>
-<td valign="top"><img src="./neel-ascii.svg" width="370" alt="Neel Prajapati — ASCII portrait" /></td>
+<td valign="top"><img src="./source-prepped.png" width="370" alt="Neel Prajapati — Profile Photo" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Neel Prajapati — role, stack, highlights" /></td>
 </tr>
 </table>

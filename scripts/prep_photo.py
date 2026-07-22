@@ -33,10 +33,15 @@ def main():
     x2 = x1 + size
     cropped = bgr_img[y1:y2, x1:x2]
 
-    print("Converting to grayscale and applying CLAHE...")
+    print("Converting to grayscale and boosting contrast...")
     gray = cv2.cvtColor(cropped, cv2.COLOR_BGR2GRAY)
-    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
-    cl1 = clahe.apply(gray)
+    
+    # Boost contrast and brightness so dark details aren't lost
+    enhanced = cv2.convertScaleAbs(gray, alpha=1.3, beta=20)
+    
+    # Apply stronger CLAHE for local contrast
+    clahe = cv2.createCLAHE(clipLimit=4.0, tileGridSize=(8, 8))
+    cl1 = clahe.apply(enhanced)
 
     print("Applying circular mask (profile pic style)...")
     mask = np.zeros((size, size), dtype=np.uint8)

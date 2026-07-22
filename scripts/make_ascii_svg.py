@@ -12,7 +12,7 @@ RAMP = " .`:-=+*cs#%@"  # bright(sparse) -> dark(dense)
 FILL = "#c9d1d9"
 CURSOR = "#1E90FF"
 BG = "#0d1117"
-COLS, ROWS_N = 96, 46
+COLS, ROWS_N = 104, 46
 
 def from_photo():
     try:
