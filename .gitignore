@@ -1,0 +1,9 @@
+scripts/
+.github/
+data/
+README_BLOCK.md
+source-photo.jpg
+source-photo.png
+source-prepped.png
+profile.json
+.venv/
